@@ -1,0 +1,7 @@
+com\ivan\Hohryakov\mvc\hibernate\aop\dao\EmployeeDao.class
+com\ivan\Hohryakov\mvc\hibernate\aop\dao\EmployeeDaoImpl.class
+com\ivan\Hohryakov\mvc\hibernate\aop\entity\Employee.class
+com\ivan\Hohryakov\mvc\hibernate\aop\aspect\MyLoggingAspect.class
+com\ivan\Hohryakov\mvc\hibernate\aop\service\EmployeeServiceImpl.class
+com\ivan\Hohryakov\mvc\hibernate\aop\service\EmployeeService.class
+com\ivan\Hohryakov\mvc\hibernate\aop\controller\MyController.class
